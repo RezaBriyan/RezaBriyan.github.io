@@ -1,0 +1,54 @@
+{
+	"name" : "Muhammad Irfan",
+	"contact" : "irfan@rubyh.co",
+	"title" : "Software Engineer",
+	"aboutme" : "A Lifelong learner. Love technologies and motivated to provide solutions to challenging problems.",
+	"skills" : [
+		"JavaScript",
+		"Java",
+		"R",
+		"Python",
+		"HTML5",
+		"SVG"
+	],
+	"frameworks" : [
+		"MEAN Stack",
+		"RxJS",
+		"Socket.io"
+	],
+	"projects" : [
+		{
+			"name" : "DBS Bank Indonesia Learning Centre",
+			"technologies" : "Android, AngularJS, HTML5",
+			"description" : "Developed a mobile application based learning centre for DBS Bank Indonesia."
+		},{
+			"name": "DBS Bank Indonesia Mini Server",
+			"technologies": "MEAN Stack, HTML5",
+			"description": "Developed complementary application for Learning Centre application above." 
+		},{
+			"name": "DBS Bank Indonesia Event Management",
+			"technologies": "MEAN Stack, HTML5, Socket.io",
+			"description": "Developed event management system for DBS Bank Indonesia."
+		}
+	],
+	"experience" : [
+		{
+			"company" : "Rubyh",
+			"link" : "www.rubyh.co",
+			"title" : "Software Engineer",
+			"startDate" : "2015",
+			"endDate" : "Present",
+			"responsibilities" : "TBC",
+			"achievements" : "TBC"
+		}
+	],
+	"education" : [
+		{
+			"school" : "Universitas Indonesia",
+			"startDate" : "2009",
+			"endDate" : "2013",
+			"program" : "Computer Science",
+			"achievements" : "Ran over dean with car, kidnapped Sir Oinks-a-lot."
+		}
+	]
+}
